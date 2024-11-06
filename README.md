@@ -1,4 +1,4 @@
 # AC Business Intelligence
-Isabella Vieira
-Emilly Fernandes
-Fabiano Amorim
+- Isabella Vieira
+- Emilly Fernandes
+- Fabiano Amorim
